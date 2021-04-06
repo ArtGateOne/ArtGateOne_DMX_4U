@@ -4,17 +4,17 @@ This is only test sketch for Arduino Mega - 4 universe dmx out - can dont work
 
 This is simple artnet node.
 
-Required: Arduino UNO
+Required: Arduino MEGA
 
 Ethernet Shield with W5100/W5500
 
 OLED display 128x32 I2C
 
-module with max485
+4 x module with max485
 
 Universal Ethernet to DMX Interface
 
-ONE DMX512 Port
+4 DMX512 Port
 
 Art-Net streaming DMX support
 
